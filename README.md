@@ -3,6 +3,8 @@
 ## RAKsmart介绍
 RAKsmart推出四月的特惠秒杀活动，涉及VPS、云服务器、独立服务器等多种产品。该活动提供极具竞争力的价格，旨在为用户提供高性价比的服务器解决方案。
 
+![image](https://github.com/7thheavens/RAKsmart/assets/157264445/d160fa76-e93f-4a6a-a61e-9723374e67e9)
+
 ## RAKsmart官网地址
 官网访问：[www.raksmart.com](https://billing.raksmart.com/whmcs/aff.php?aff=7337)
 
